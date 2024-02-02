@@ -16,6 +16,7 @@ int binary_search (int arr[], int size, int item) {
         return -1;
     }
 }
+
 int main () {
 
 int A[] = {1,3,5,7,9};
